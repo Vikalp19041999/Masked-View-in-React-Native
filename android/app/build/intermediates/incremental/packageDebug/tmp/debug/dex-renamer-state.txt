@@ -1,0 +1,4 @@
+#Wed Mar 18 13:11:32 IST 2020
+base.0=/home/ulcom17/Desktop/React Native/MaskedView/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
